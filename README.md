@@ -21,7 +21,7 @@ provider:
   name: aws
   runtime: rust
 plugins:
-  # this adds informs servleress to use
+  # this informs serverless to use
   # the serverless-rust plugin
   - serverless-rust
 # creates one artifact for each function
